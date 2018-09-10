@@ -14,9 +14,11 @@ namespace Farm
     // This is an Animal interface. All animal will derive from animal interfa
     public interface Animal
     {
+
        void Speak();
         void Use();
         void Eat();
         void NumberOfLegs();
+
     }
 }

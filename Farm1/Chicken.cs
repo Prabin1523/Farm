@@ -31,7 +31,7 @@ namespace Farm
 
         public void Use() //This method describes what is the use of the animal. 
         {
-            Console.WriteLine("Pig eat everything");
+            Console.WriteLine("Chicken is good source of meat. ");
 
         }
         
