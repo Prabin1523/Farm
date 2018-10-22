@@ -18,7 +18,7 @@ namespace Farm
 
         public void NumberOfLegs() // This method describes how many legs does animal have
         {
-            Console.WriteLine("Pig has 4 legs");
+            Console.WriteLine("Pig has 4 leg");
         }
 
         public void Speak() //This method describes how animal produce their soun
